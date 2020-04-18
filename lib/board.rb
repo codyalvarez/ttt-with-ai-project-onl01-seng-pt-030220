@@ -6,5 +6,6 @@ class Board
   end
 
   def initialize
+    reset!
   end
 end
